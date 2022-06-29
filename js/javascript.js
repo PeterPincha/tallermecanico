@@ -83,7 +83,7 @@ function cambiarFondoAClaro() {
 
 function welcome() {alert("Bienvenido ¿Estás dispuesto a ver el mejor sitio del mundo mundial?")}
 
-function datosDeveloper() {alert("Datos:\n TP de JS.\n Pedro Gervassio. \n Mail: Pedro@Gervassio.com\n Celular (15) 123456789")}
+function datosDeveloper() {alert("Datos:\n Pedro Gervassio. \n Mail: Pedro@Gervassio.com\n Celular (15) 123456789")}
 
 
 function AmpliarImg(x) {
