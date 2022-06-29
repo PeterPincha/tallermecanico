@@ -7,7 +7,7 @@
   width: auto;
   border-radius: 10%;
   border-color: green;
-  top: 12%;
+  top: 88%;
   margin-left: 88%;
   position: fixed;
   opacity: 95%;
@@ -179,12 +179,12 @@ h2::after {
 /*********************************************************************************/
 
 .RedSocial {
-  height: 20vh;
+  height: 15vh;
   border-radius: 50%;
   align-items: center;
 }
 
 .RedSocial:hover{
-  width: 25vh;
+  width: 20vh;
   height: auto;
 }
